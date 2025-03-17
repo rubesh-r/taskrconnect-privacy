@@ -1,3 +1,5 @@
+<meta name="fast2sms" content="b9tqdoAl3NnuzEK363yBXlyq7UqCUelP">
+
 # Privacy Policy
 
 Last updated: February 24, 2025
