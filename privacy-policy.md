@@ -206,7 +206,10 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-🔐 Account Misuse & Community Standards
+
+
+## 🔐 Account Misuse & Community Standards
+
 We want Taskr Connect to be a safe, reliable, and trustworthy marketplace. To maintain this, accounts engaging in the following behaviors may be LIMITED, SUSPENDED, or PERMANENTLY BANNED at our discretion:
 
 Failing to meet commitments
