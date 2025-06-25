@@ -1,4 +1,3 @@
-<meta name="fast2sms" content="b9tqdoAl3NnuzEK363yBXlyq7UqCUelP">
 
 # Privacy Policy
 
@@ -187,23 +186,6 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
@@ -224,6 +206,63 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+🔐 Account Misuse & Community Standards
+We want Taskr Connect to be a safe, reliable, and trustworthy marketplace. To maintain this, accounts engaging in the following behaviors may be LIMITED, SUSPENDED, or PERMANENTLY BANNED at our discretion:
+
+Failing to meet commitments
+
+Taskers who apply but regularly accept jobs they can't complete or perform poorly may be downgraded (e.g., limited from offering new tasks), suspended, or removed—based on client complaints and internal review.
+
+
+Illegal, unsafe, or inappropriate task content
+
+Any task involving theft, violence, drugs, weapons, fraud, harassment, or other illegal or unethical actions is strictly prohibited. Posting or offering such tasks will lead to immediate removal and account deactivation.
+
+
+Misuse of contact info or payments off-portal
+
+Sharing phone numbers or payment details before the task is assigned, or arranging payments outside the app’s workflow is disallowed. Violations may result in account limitations or bans.
+
+
+Multiple accounts or false identities
+
+Users operating more than one account, impersonating others, or using fake identities will have all related accounts removed.
+
+
+Subcontracting without permission
+
+Taskers must personally perform accepted tasks unless explicit permission is granted within the app's workflow. Unauthorized subcontracting may result in deactivation.
+
+High cancellation rates
+
+Repeatedly canceling or failing to complete tasks can trigger warnings, temporary limits on posting/offering, or deactivation.
+
+Harassment or discrimination
+
+Hate speech, harassment, discrimination, or abusive behavior toward any platform user is not tolerated. Violators may be punished or banned.
+
+Fraud or payment abuse
+
+Attempts to defraud clients, manipulate reviews, or use stolen credit cards for payments will result in account termination and possible legal action.
+support.airtasker.com
+
+🔎 Enforcement & Appeal Process
+Account Limitation
+Temporary block on posting tasks or offers; existing jobs may still be completed.
+
+Account Suspension/Deactivation
+User is blocked from accessing the platform; open tasks may be canceled.
+
+Appeal
+Suspended users will be informed and can appeal within 14 days by contacting support via Telegram or email.
+
+✅ Compliance & Safety Checkpoints
+
+User Reporting: Every user can report unsafe or suspicious tasks via a “Report Task” button.
+
+Admin Review: Reported tasks are reviewed within 24 hours; actionable removals and user sanctions follow.
+
+Education: We periodically share reminders via email/in-app notifications about rules and best practices.
 
 ## Contact Us
 
