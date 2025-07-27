@@ -247,7 +247,6 @@ Hate speech, harassment, discrimination, or abusive behavior toward any platform
 Fraud or payment abuse
 
 Attempts to defraud clients, manipulate reviews, or use stolen credit cards for payments will result in account termination and possible legal action.
-support.airtasker.com
 
 🔎 Enforcement & Appeal Process
 Account Limitation
